@@ -35,7 +35,7 @@ My focus areas include:
 ### 2. Survey Insights  
 - **Goal:** Analyze survey responses to understand customer satisfaction and preferences.  
 - **Tools:** Excel, Power BI  
-- 📁 [View Project](./Survey-Insights43ddd35e-6beb-4b46-9205-21ca7e290a7a.jpeg)  
+- 📁 [View Project43ddd35e-6beb-4b46-9205-21ca7e290a7a.jpeg ](Survey-Insist)  
 
 ---
 
